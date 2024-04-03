@@ -36,7 +36,7 @@ export const intro = {
     },
     {
       title: "Resume",
-      link: "#",
+      link: "https://kinishii1.github.io/resume/",
       isPrimary: false,
     },
   ],
@@ -218,7 +218,7 @@ export const links = {
   cards: [
     {
       title: "My website",
-      link: "#",
+      link: "https://my-portfolio-smoky-three-67.vercel.app/",
     },
     {
       title: "My GitHub",
@@ -230,7 +230,7 @@ export const links = {
     },
     {
       title: "My Resume",
-      link: "#",
+      link: "https://kinishii1.github.io/resume/",
     },
   ]
 }
